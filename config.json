@@ -1,5 +1,5 @@
 {
-    "interval": 60000,
+    "interval": 1000,
     "serverPort": 1337,
     "autoRetryOnCrash": true,
     "noImageURL": "http://i.imgur.com/MdsG0Po.png",
@@ -20,14 +20,14 @@
     "twitter": {
         "active": false,
         "encodeImages": false,
-        "consumer_key": "consumer key goes here",
-        "consumer_secret": "consumer secret goes here",
-        "access_token": "access token over here",
-        "access_token_secret": "access token secret here"
+        "consumer_key": "0ghGZdFM1R7cJoIGhYhjOcRBp",
+        "consumer_secret": "aq2y1qjDeAIylGFPoTi4PbaQAs2A8URJnKsX7jA4mwZHXTBAuH",
+        "access_token": "816403060213907460-suussADq123poykDB1imTaldqS4rT4m",
+        "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "https://shop-usa.palaceskateboards.com/sitemap_products_1.xml",
-        "http://kithnyc.com/sitemap_products_1.xml"
+        "http://www.socialstatuspgh.com/sitemap_products_1.xml"
+        
     ],
     "keywords": [
         "nmd",
