@@ -479,7 +479,7 @@ function twitterNotification(parsedResult, type) {
             var price = res.price
 
             if (type === 'new') {
-                var altText = `Added:\n${name}\n${price}\nStock Count: ${stock}\n${url}`
+                var altText =  `\n${name}\n${price}\nStock : ${stock}\n${url}`
             }
 
             if (type === 'match') {
