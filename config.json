@@ -1,6 +1,6 @@
 {
     "interval": 1000,
-    "serverPort": 1331,
+    "serverPort": 1300,
     "autoRetryOnCrash": true,
     "noImageURL": "http://i.imgur.com/MdsG0Po.png",
     "notify": {
@@ -26,7 +26,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "https://kithnyc.com/sitemap_products_1.xml"
+        "http://www.xhibition.co/sitemap_products_1.xml"
         
     ],
     "keywords": [
